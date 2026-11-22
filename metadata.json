@@ -1,0 +1,6 @@
+{
+  "name": "Biologiya Uyğunlaşdırma",
+  "description": "60 saniyəlik interaktiv biologiya terminləri və sual-cavab uyğunlaşdırma oyunu. Hər doğru cavaba +5 saniyə, səhv cavaba -7 saniyə.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
